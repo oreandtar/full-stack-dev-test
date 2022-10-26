@@ -10,5 +10,17 @@
         "brand": "Apple",
         "price": 1070,
         "image": "iPad-Pro-11-128GB-space-grey.jpg"    
+    },
+    {
+        "name": "iPad Pro 11",
+        "brand": "Apple",
+        "price": 1295,
+        "image": "iPad-Pro-11.jpg"   
+    },
+    {
+        "name": "iPad Pro 12.9",
+        "brand": "Apple",
+        "price": 1420,
+        "image": "iPad-Pro-12.9-512GB.jpg"
     }
 ]
