@@ -1,0 +1,14 @@
+[
+    {
+        "name": "iPad Air 4 2020",
+        "brand": "Apple",
+        "price": 1070,
+        "image": "iPad-Air-256GB.jpg"
+    },
+    {
+        "name": "iPad Pro 11",
+        "brand": "Apple",
+        "price": 1070,
+        "image": "iPad-Pro-11-128GB-space-grey.jpg"    
+    }
+]
