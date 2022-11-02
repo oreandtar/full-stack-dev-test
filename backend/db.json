@@ -1,26 +1,33 @@
-[
-    {
-        "name": "iPad Air 4 2020",
-        "brand": "Apple",
-        "price": 1070,
-        "image": "iPad-Air-256GB.jpg"
-    },
-    {
-        "name": "iPad Pro 11",
-        "brand": "Apple",
-        "price": 1070,
-        "image": "iPad-Pro-11-128GB-space-grey.jpg"    
-    },
-    {
-        "name": "iPad Pro 11",
-        "brand": "Apple",
-        "price": 1295,
-        "image": "iPad-Pro-11.jpg"   
-    },
-    {
-        "name": "iPad Pro 12.9",
-        "brand": "Apple",
-        "price": 1420,
-        "image": "iPad-Pro-12.9-512GB.jpg"
-    }
-]
+{
+ "products" :  [
+        {
+            "id":"9ad8f351-b7ab-4a14-841d-458c919eede4",
+            "name": "iPad Air 4 2020",
+            "brand": "Apple",
+            "price": 1070,
+            "image": "https://res.cloudinary.com/tawanda-3012/image/upload/v1667304020/Tusk/iPad-Air-256GB_cfrs2k.jpg"
+        },
+        {
+            "id":"c917d2c7-08bb-4cec-9ab9-9df9e8ad2ad9",
+            "name": "iPad Pro 11",
+            "brand": "Apple",
+            "price": 1070,
+            "image": "https://res.cloudinary.com/tawanda-3012/image/upload/v1667304020/Tusk/iPad-Pro-11-128GB-space-grey_y8cgcj.jpg"    
+        },
+        {
+            "id":"5fc41c3b-ee83-497d-995f-8da17f77f3bf",
+            "name": "iPad Pro 11",
+            "brand": "Apple",
+            "price": 1295,
+            "image": "https://res.cloudinary.com/tawanda-3012/image/upload/v1667304020/Tusk/iPad-Pro-11-128GB-space-grey_y8cgcj.jpg"   
+        },
+        {
+            "id":"0263042c-9af1-41b2-baef-fc4f3b8db46d",
+            "name": "iPad Pro 12.9",
+            "brand": "Apple",
+            "price": 1420,
+            "image": "https://res.cloudinary.com/tawanda-3012/image/upload/v1667304020/Tusk/iPad-Pro-12.9-512GB_pdaxb9.jpg"
+        }
+    ]
+}
+
