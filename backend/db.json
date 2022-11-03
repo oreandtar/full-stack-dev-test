@@ -3,7 +3,7 @@
         "name": "iPad Air 4 2020",
         "brand": "Apple",
         "price": 1070,
-        "image": "iPad-Air-256GB.jpg"
+        "image": "https://res.cloudinary.com/selasiehshop/image/upload/v1667467443/online%20shop/iPad-Air-256GB_ghjnfp.jpg"
     },
     {
         "name": "iPad Pro 11",
@@ -21,6 +21,6 @@
         "name": "iPad Pro 12.9",
         "brand": "Apple",
         "price": 1420,
-        "image": "iPad-Pro-12.9-512GB.jpg"
+        "image": "https://res.cloudinary.com/selasiehshop/image/upload/v1667467470/online%20shop/iPad-Pro-12.9-512GB_dqe9bf.jpg"
     }
 ]
